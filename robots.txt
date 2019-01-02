@@ -1,0 +1,15 @@
+User-agent: Googlebot
+Disallow: /03-comming-soon/
+Disallow: /common-js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /images/
+Disallow: /img/
+Disallow: /js/
+Disallow: /scss/
+Disallow: /vendors/
+
+User-agent: *
+Disallow:
+
+SITEMAP: http://www.vamadevbuildtech.com/sitemap.txt
