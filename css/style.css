@@ -784,15 +784,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #contact-form .block form .form-group .form-control {
   background: #F6F8FA;
   height: 60px;
-  border: 1px solid #8fbedd;
-  box-shadow: none;
-  width: 100%;
-}
-
-#contact-form .block .form-group .form-control {
-  background: #F6F8FA;
-  height: 60px;
-  border: 1px solid #8fbedd;
+  border: 1px solid #EEF2F6;
   box-shadow: none;
   width: 100%;
 }
@@ -802,23 +794,10 @@ font header .navbar-default .navbar-nav li a:hover {
   margin: 0px;
 }
 
-#contact-form .block .form-group-2 {
-  padding-bottom: 15px;
-  margin: 0px;
-}
-
 #contact-form .block form .form-group-2 textarea {
   background: #F6F8FA;
   height: 135px;
-  border: 1px solid #8fbedd;
-  box-shadow: none;
-  width: 100%;
-}
-
-#contact-form .block .form-group-2 textarea {
-  background: #F6F8FA;
-  height: 135px;
-  border: 1px solid #8fbedd;
+  border: 1px solid #EEF2F6;
   box-shadow: none;
   width: 100%;
 }
